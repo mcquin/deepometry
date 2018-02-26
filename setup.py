@@ -22,9 +22,11 @@ setuptools.setup(
         "Keras",
         "keras-resnet>=0.0.7",
         "numpy",
+        "pandas",
         "python-bioformats",
         "scipy",
-        "scikit-image"
+        "scikit-image",
+        "scikit-learn"
     ],
     license="BSD",
     name="deepometry",
