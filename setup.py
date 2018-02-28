@@ -19,7 +19,7 @@ setuptools.setup(
     install_requires=[
         "click",
         "javabridge",
-        "Keras",
+        "Keras==2.0.6",
         "keras-resnet>=0.0.7",
         "numpy",
         "pandas",
